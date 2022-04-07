@@ -1,14 +1,16 @@
 # Hi there! 🔭
 
+
 I'm Ze Shi (Zane) and I am currently a PhD Student at the University of Victoria. 
 I am a software engineering researcher and piano enthusiast. My research involves a broad spectrum of areas including requirements engineering, requirement narratives, continuous software engineering, and privacy. 
 In particular, my research has focused on studying the practical software problems in organizations and solving these problems through collaborative research. 
 In addition, I am the co-founder of Scholarnet, which is a platform for budding researchers who can seek valuable mentorship, advice, and help from experienced researchers. 
 _________
 
-
-
-
+<h4 >
+Here is a glimpse of me overcoming my fears in public
+</h4>
+  
 https://user-images.githubusercontent.com/17919332/162100034-24a59471-0a05-4032-a75f-28d4916aff19.mp4
 
 
