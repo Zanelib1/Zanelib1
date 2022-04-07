@@ -1,8 +1,5 @@
 # Hi there! 🔭
-![icons8-twitter-48](https://user-images.githubusercontent.com/17919332/162102273-9b8d8487-12b4-417a-ba62-ff1aab52c0e8.png)
-![icons8-linkedin-48](https://user-images.githubusercontent.com/17919332/162102274-7e779b6a-fb65-4b75-aaef-ca572ff729f1.png)
-
-[![twitter](https://user-images.githubusercontent.com/17919332/162102273-9b8d8487-12b4-417a-ba62-ff1aab52c0e8.png][1]
+[![twitter](https://user-images.githubusercontent.com/17919332/162102273-9b8d8487-12b4-417a-ba62-ff1aab52c0e8.png)][1]
 [![linkedin](https://user-images.githubusercontent.com/17919332/162102274-7e779b6a-fb65-4b75-aaef-ca572ff729f1.png)][2]
 
 I'm Ze Shi (Zane) and I am currently a PhD Student at the University of Victoria. 
