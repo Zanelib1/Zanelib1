@@ -1,6 +1,8 @@
 # Hi there! 🔭
-[![twitter](https://user-images.githubusercontent.com/17919332/162102273-9b8d8487-12b4-417a-ba62-ff1aab52c0e8.png)][1]
-[![linkedin](https://user-images.githubusercontent.com/17919332/162102274-7e779b6a-fb65-4b75-aaef-ca572ff729f1.png)][2]
+[![linkedin](https://user-images.githubusercontent.com/17919332/162102274-7e779b6a-fb65-4b75-aaef-ca572ff729f1.png)][1]
+[![twitter](https://user-images.githubusercontent.com/17919332/162102273-9b8d8487-12b4-417a-ba62-ff1aab52c0e8.png)][3]
+[![instagram](https://user-images.githubusercontent.com/17919332/162103082-94b5a81d-fcc3-4c4c-b9b5-5c8a3c547ee5.png)][3]
+
 
 I'm Ze Shi (Zane) and I am currently a PhD Student at the University of Victoria. 
 I am a software engineering researcher and piano enthusiast. My research involves a broad spectrum of areas including requirements engineering, requirement narratives, continuous software engineering, and privacy. 
@@ -52,5 +54,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[1]: https://twitter.com/ze_shi_li
-[2]: https://www.linkedin.com/in/ze-li/
+
+[1]: https://www.linkedin.com/in/ze-li/
+[2]: https://twitter.com/ze_shi_li
+[3]: https://www.instagram.com/zeshi_li/
