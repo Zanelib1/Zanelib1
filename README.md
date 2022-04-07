@@ -6,6 +6,14 @@ In particular, my research has focused on studying the practical software proble
 In addition, I am the co-founder of Scholarnet, which is a platform for budding researchers who can seek valuable mentorship, advice, and help from experienced researchers. 
 _________
 
+
+
+
+https://user-images.githubusercontent.com/17919332/162100034-24a59471-0a05-4032-a75f-28d4916aff19.mp4
+
+
+_________
+
 ### My recent publications 🌱 
 
 Ze Shi Li, Colin Werner, Neil Ernst, and Daniela Damian,“Towards Privacy Compliance: A Design Science Study in a Small Organization,” Information and Software Technology Journal, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S0950584922000362).
