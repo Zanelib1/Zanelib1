@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
 [1]: https://www.linkedin.com/in/ze-li/
 [2]: https://twitter.com/ze_shi_li
-[3]: https://www.instagram.com/zeshi_li/
+[3]: https://www.instagram.com/zane__li_/
